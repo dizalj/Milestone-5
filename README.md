@@ -69,10 +69,3 @@ Screenshots: [`deployment/`](./deployment)
 - OpenRouter’s GPT-4o as LLM runtime  
 - Stateless, on-demand JSON response with error retries  
 Prompt samples: [`model-service/`](./model-service)
-
----
-
-##  Note
-
-Due to the proprietary nature of the backend logic and API key security, only the high-level service design, prompts, architecture, and configuration details are shared. The full backend is deployed and accessible via:
-👉 [`https://api.laddaty.com`](https://api.laddaty.com)
